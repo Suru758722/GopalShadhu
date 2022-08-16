@@ -1,0 +1,12 @@
+.bg-light {background-color: #623e5c !important}
+.bg-light .nav-link { color: white; }
+.container-fluid  .logo{color: white;padding-left: 70px; font-size: 25px;font-weight: bold;}
+.bg-light .nav-item a {position: absolute;
+    padding-top: 0px;cursor: pointer;margin-bottom: 0px;} 
+    .link2 {margin-left: 90px !important;}
+#navbarSupportedContent {margin-left: 70px;     margin-bottom: 15px}
+.bg-light .nav-link:hover{font-size: 19px;font-weight: bold; text-decoration: underline; transition: 0.2s;}
+@media (max-width:600px){ 
+    .container-fluid  .logo{padding-left: 0px; font-size: 17px}
+    #navbarSupportedContent {margin-left: 0px; }
+}
